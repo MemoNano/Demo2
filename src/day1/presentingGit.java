@@ -6,5 +6,8 @@ public class presentingGit {
     }
     public static void newMethod(){
         System.out.println("for git");
+        /*
+        make changes
+         */
     }
 }
